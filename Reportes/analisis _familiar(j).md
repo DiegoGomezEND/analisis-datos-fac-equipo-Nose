@@ -15,7 +15,7 @@ Los datos provienen de la encuesta **JEFAB_2024.xlsx** aplicada al personal de l
 El estado civil de “casado/a” es el más frecuente, seguido de “soltero/a”.
 
 **Distribución del Estado Civil**  
-![Distribución del Estado Civil](figs/estado_civil_bar.png)
+![Distribución del Estado Civil](Reportes_files/figs/estado_civil_bar.png)
 
 ---
 
@@ -29,10 +29,10 @@ El estado civil de “casado/a” es el más frecuente, seguido de “soltero/a�
 El 15% restante no convive, y se detectó un **0.8% de inconsistencias** (personas que dicen no tener hijos pero aparecen con `HIJOS_EN_HOGAR > 0`).
 
 **¿Cuántos tienen hijos?**  
-![¿Cuántos tienen hijos?](figs/tienen_hijos_bar.png)
+![¿Cuántos tienen hijos?](Reportes_files/figs/tienen_hijos_bar.png)
 
 **P(vivir con hijos | tener hijos)**  
-![Heatmap convivencia con hijos](figs/heatmap_convivencia.png)
+![Heatmap convivencia con hijos](Reportes_files/figs/heatmap_convivencia.png)
 
 ---
 
@@ -46,7 +46,7 @@ Sí.
  El estado civil está claramente asociado a la edad: los más jóvenes tienden a ser solteros/as, mientras que categorías como divorciado, separado o viudo aparecen en edades más altas.
 
 **Edad por estado civil (Top 6)**  
-![Boxplot edad por estado civil](figs/box_edad_estado.png)
+![Boxplot edad por estado civil](Reportes_files/figs/box_edad_estado.png)
 
 ---
 
@@ -54,7 +54,7 @@ Sí.
 El porcentaje de personas que tienen hijos aumenta con la edad hasta ~40 años y luego disminuye.
 
 **% con hijos por grupo de edad**  
-![% con hijos por grupo de edad](figs/porc_hijos_por_edad.png)
+![% con hijos por grupo de edad](Reportes_files/figs/porc_hijos_por_edad.png)
 
 ---
 
@@ -77,7 +77,7 @@ Entre quienes tienen hijos, el % que vive con ellos es:
 - A partir de los 50 años la proporción baja, ya que los hijos comienzan a independizarse.
 
 **% padres que conviven con hijos por edad**  
-![% padres que conviven con hijos por edad](figs/porc_viven_con_hijos_por_edad.png)
+![% padres que conviven con hijos por edad](Reportes_files/figs/porc_viven_con_hijos_por_edad.png)
 
 ---
 
