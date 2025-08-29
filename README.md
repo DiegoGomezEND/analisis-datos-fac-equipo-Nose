@@ -1,10 +1,10 @@
 # Análisis datos Fac equipo x
 
-\# Proyecto  Análisis de Datos FAC 
+# Proyecto  Análisis de Datos FAC 
 
 
 
-\##  Descripción
+##  Descripción
 
 Este proyecto corresponde a un \*\*análisis exploratorio de datos\*\* de la encuesta de bienestar familiar aplicada al personal de la \*\*Fuerza Aérea Colombiana (FAC)\*\* en 2024.  
 
@@ -14,7 +14,7 @@ El objetivo principal es \*\*explorar, analizar y documentar patrones demográfi
 
 
 
-\##  Organización del Equipo
+##  Organización del Equipo
 
 El proyecto se desarrolla en grupos de \*\*3 estudiantes\*\*, con responsabilidades específicas:
 
@@ -44,7 +44,7 @@ El proyecto se desarrolla en grupos de \*\*3 estudiantes\*\*, con responsabilida
 
 
 
-\##  Estructura del Repositorio
+##  Estructura del Repositorio
 
 
 
@@ -78,7 +78,7 @@ analisis-datos-fac-equipo-X/
 
 
 
-\##  Metodología
+##  Metodología
 
 1\. \*\*Lectura y exploración de datos\*\*   
 
@@ -96,7 +96,7 @@ analisis-datos-fac-equipo-X/
 
 
 
-\##  Resultados esperados
+##  Resultados esperados
 
 \- \*\*Gráficos\*\*: histogramas de edad, distribuciones por género, barras de estado civil, convivencia con hijos, heatmaps de calidad de datos.  
 
@@ -106,7 +106,7 @@ analisis-datos-fac-equipo-X/
 
 
 
-\##  Flujo de trabajo colaborativo
+##  Flujo de trabajo colaborativo
 
 \- Cada estudiante desarrolla su parte (A, B, C) en un script individual.  
 
@@ -118,7 +118,7 @@ analisis-datos-fac-equipo-X/
 
 
 
-\##  Competencias trabajadas
+##  Competencias trabajadas
 
 \- Lectura y análisis de datos con `pandas`.  
 
@@ -136,7 +136,7 @@ analisis-datos-fac-equipo-X/
 
 
 
-\*\*Equipo X \*\*  
+\*\*Julian Mendez, Camila Infante y Diego Gomez \*\*  
 
 Proyecto académico de análisis de datos, 2025.  
 
