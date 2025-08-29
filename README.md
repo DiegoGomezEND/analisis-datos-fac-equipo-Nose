@@ -136,7 +136,7 @@ analisis-datos-fac
 
 
 
-**Julian Mendez, Camila Infante y Diego Gomez **  
+**Julian Mendez, Camila Infante y Diego Gomez**  
 
 Proyecto académico de análisis de datos, 2025.  
 
