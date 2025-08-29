@@ -1,4 +1,4 @@
-# Análisis datos Fac equipo x
+# Análisis datos Fac
 
 # Proyecto  Análisis de Datos FAC 
 
