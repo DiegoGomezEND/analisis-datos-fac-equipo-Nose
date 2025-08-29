@@ -6,21 +6,21 @@
 
 ##  Descripción
 
-Este proyecto corresponde a un \*\*análisis exploratorio de datos\*\* de la encuesta de bienestar familiar aplicada al personal de la \*\*Fuerza Aérea Colombiana (FAC)\*\* en 2024.  
+Este proyecto corresponde a un **análisis exploratorio de datos** de la encuesta de bienestar familiar aplicada al personal de la **Fuerza Aérea Colombiana (FAC)** en 2024.  
 
 
 
-El objetivo principal es \*\*explorar, analizar y documentar patrones demográficos, familiares y de calidad de datos\*\*, trabajando en equipo con control de versiones en Git/GitHub.
+El objetivo principal es **explorar, analizar y documentar patrones demográficos, familiares y de calidad de datos**, trabajando en equipo con control de versiones en Git/GitHub.
 
 
 
 ##  Organización del Equipo
 
-El proyecto se desarrolla en grupos de \*\*3 estudiantes\*\*, con responsabilidades específicas:
+El proyecto se desarrolla en grupos de **3 estudiantes**, con responsabilidades específicas:
 
 
 
-\- \*\*Estudiante A – Demografía\*\*  
+- **Estudiante A – Demografía**  
 
 &nbsp; Análisis de edad, género y rango.  
 
@@ -28,7 +28,7 @@ El proyecto se desarrolla en grupos de \*\*3 estudiantes\*\*, con responsabilida
 
 
 
-\- \*\*Estudiante B – Análisis Familiar\*\*  
+- **Estudiante B – Análisis Familiar**  
 
 &nbsp; Estudia estado civil, hijos, convivencia y patrones familiares.  
 
@@ -36,7 +36,7 @@ El proyecto se desarrolla en grupos de \*\*3 estudiantes\*\*, con responsabilida
 
 
 
-\- \*\*Estudiante C – Calidad de Datos\*\*  
+- **Estudiante C – Calidad de Datos**  
 
 &nbsp; Revisa datos faltantes, duplicados y errores de encoding.  
 
@@ -48,7 +48,7 @@ El proyecto se desarrolla en grupos de \*\*3 estudiantes\*\*, con responsabilida
 
 
 
-analisis-datos-fac-equipo-X/
+analisis-datos-fac
 
 
 
@@ -80,55 +80,55 @@ analisis-datos-fac-equipo-X/
 
 ##  Metodología
 
-1\. \*\*Lectura y exploración de datos\*\*   
+1. **Lectura y exploración de datos**   
 
-2\. \*\*Visualización básica\*\*  
+2. **Visualización básica**  
 
-3\. \*\*División de tareas\*\* según las preguntas guía:  
+3. **División de tareas** según las preguntas guía:  
 
 
 
-&nbsp;  - \*\*A (Demografía):\*\* ¿Cuál es el rango de edad más común? ¿Hay diferencias por género? ¿Cuál es el grado militar más frecuente?  
+&nbsp;  - **A (Demografía):** ¿Cuál es el rango de edad más común? ¿Hay diferencias por género? ¿Cuál es el grado militar más frecuente?  
 
-&nbsp;  - \*\*B (Familiar):\*\* ¿Qué porcentaje del personal está casado? ¿Cuántos tienen hijos y cuántos viven con ellos? ¿Hay relación entre edad y estado civil?  
+&nbsp;  - **B (Familiar):** ¿Qué porcentaje del personal está casado? ¿Cuántos tienen hijos y cuántos viven con ellos? ¿Hay relación entre edad y estado civil?  
 
-&nbsp;  - \*\*C (Calidad de Datos):\*\* ¿Qué columnas tienen más faltantes? ¿Hay duplicados? ¿Se detectan problemas de encoding o plausibilidad?  
+&nbsp;  - **C (Calidad de Datos):** ¿Qué columnas tienen más faltantes? ¿Hay duplicados? ¿Se detectan problemas de encoding o plausibilidad?  
 
 
 
 ##  Resultados esperados
 
-\- \*\*Gráficos\*\*: histogramas de edad, distribuciones por género, barras de estado civil, convivencia con hijos, heatmaps de calidad de datos.  
+- **Gráficos**: histogramas de edad, distribuciones por género, barras de estado civil, convivencia con hijos, heatmaps de calidad de datos.  
 
-\- \*\*Tablas resumen\*\*: conteo de categorías, porcentajes de casados, proporción de convivencia con hijos, métricas de datos faltantes.  
+- **Tablas resumen**: conteo de categorías, porcentajes de casados, proporción de convivencia con hijos, métricas de datos faltantes.  
 
-\- \*\*Reportes Markdown\*\*: cada estudiante genera un reporte con sus hallazgos principales.  
+- **Reportes Markdown**: cada estudiante genera un reporte con sus hallazgos principales.  
 
 
 
 ##  Flujo de trabajo colaborativo
 
-\- Cada estudiante desarrolla su parte (A, B, C) en un script individual.  
+- Cada estudiante desarrolla su parte (A, B, C) en un script individual.  
 
-\- Se integran todos en `datos\_exploracion.py`.  
+- Se integran todos en `datos\_exploracion.py`.  
 
-\- Se documentan hallazgos en `reportes/`.  
+- Se documentan hallazgos en `reportes/`.  
 
-\- Se usa \*\*GitHub\*\* para control de versiones: `clone`, `commit`, `push`, `pull`.
+- Se usa **GitHub** para control de versiones: `clone`, `commit`, `push`, `pull`.
 
 
 
 ##  Competencias trabajadas
 
-\- Lectura y análisis de datos con `pandas`.  
+- Lectura y análisis de datos con `pandas`.  
 
-\- Visualización de información en `matplotlib/seaborn`.  
+- Visualización de información en `matplotlib/seaborn`.  
 
-\- Identificación de problemas de calidad de datos.  
+- Identificación de problemas de calidad de datos.  
 
-\- Trabajo colaborativo con Git/GitHub.  
+- Trabajo colaborativo con Git/GitHub.  
 
-\- Redacción técnica y estructuración de reportes.
+- Redacción técnica y estructuración de reportes.
 
 
 
@@ -136,7 +136,7 @@ analisis-datos-fac-equipo-X/
 
 
 
-\*\*Julian Mendez, Camila Infante y Diego Gomez \*\*  
+**Julian Mendez, Camila Infante y Diego Gomez **  
 
 Proyecto académico de análisis de datos, 2025.  
 
